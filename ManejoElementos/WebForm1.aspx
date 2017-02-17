@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <input type="text" id="pedro" runat="server"/>
-        <p id="juan"></p>
+        <p id="juan">Hola</p>
         <asp:Button ID="btn1" runat="server" Text="Cambiar texto" OnClick="cambiar" />
     </form>
 </body>
